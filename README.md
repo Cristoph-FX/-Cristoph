@@ -1,8 +1,13 @@
 # -Cristoph
 Bonjour, je suis Cristoph
-Développeur web full-stack passionné, spécialisé dans la création d'applications modernes et performantes côté frontend et backend. J’ai une expertise approfondie dans les technologies React, Angular, Node.js, et je maîtrise des langages comme TypeScript, Python, HTML, CSS, ainsi que la programmation web moderne.
+Développeur web full-stack passionné, spécialisé dans la création d'applications modernes et performantes, tant côté frontend que backend.
+Je maîtrise des technologies clés telles que React, Angular, Node.js, ainsi que des langages comme TypeScript, Python, PHP, HTML, CSS et JavaScript.
 
-Je conçois des solutions complètes, de l’interface utilisateur à la logique serveur, en appliquant les meilleures pratiques de développement, l’intégration continue, et la collaboration via Git.
+J’ai également une solide expérience dans l’utilisation de frameworks d’interface utilisateur tels que Bootstrap et Semantic UI, me permettant de créer des interfaces réactives, accessibles et élégantes.
+
+Je conçois des solutions complètes, de l’interface utilisateur à la logique serveur, en appliquant les meilleures pratiques de développement, les architectures modernes, l’intégration continue et la gestion de versions avec Git.
+
+Enfin, je parle couramment espagnol et anglais, ce qui me permet de collaborer efficacement dans des environnements internationaux et multiculturels.
 
 🛠️ Langages et Technologies
 | Technologie           | Badge                                                                                                               |
@@ -18,6 +23,9 @@ Je conçois des solutions complètes, de l’interface utilisateur à la logique
 | **Git**               | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)                      |
 | **PHP**               | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)                      |
 | **MySQL**             | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)                |
+| **Bootstrap**         | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)               |
+| **Semantic UI**       | ![Semantic UI](https://img.shields.io/badge/Semantic%20UI-35BDB2?style=for-the-badge\&logo=semantic-ui-react\&logoColor=white) |
+
 
 
 
