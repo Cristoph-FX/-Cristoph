@@ -9,8 +9,7 @@ Je conçois des solutions complètes, de l’interface utilisateur à la logique
 
 Enfin, je parle couramment espagnol et anglais, ce qui me permet de collaborer efficacement dans des environnements internationaux et multiculturels.
 
-🛠️ Langages et Technologies
-| Technologie           | Badge                                                                                                               |
+ Langages et Technologies|                                                                                                                 |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **HTML5**             | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)                |
 | **CSS3**              | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)                   |
